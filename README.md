@@ -1,5 +1,5 @@
 # landingpage_moveis-reactjs
-:computer: Landingpage for furniture store using React js and Bootstrap
+:computer: Landingpage for furniture store using React Js and Bootstrap
 <div align="center">
 
 <img src="https://i.ibb.co/MPsGWdb/LOJA-DE-MOVEIS.png" width="800px"> 
